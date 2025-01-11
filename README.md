@@ -106,22 +106,6 @@ This project predicts house prices using machine learning techniques. The datase
 
 ---
 
-## How to Use
-1. Clone the repository:
-   ```bash
-   git clone <repository-url>
-   ```
-2. Install the required libraries:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Run the Jupyter notebooks for each project:
-   ```bash
-   jupyter notebook
-   ```
-
----
-
 ## Acknowledgments
 - Datasets sourced from [Google Drive](https://drive.google.com/file/d/1ELIgtz3ZknkfsHpX3qYFfOM8wcVHVofI/view?usp=sharing).
 - Open-source libraries and tools used in analysis and visualization.
